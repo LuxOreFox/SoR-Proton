@@ -3,7 +3,7 @@ using System.Reflection.Emit;
 using HarmonyLib;
 using RogueLibsCore;
 
-namespace Proton.VanillaOptimized;
+namespace Proton.VanillaTweak;
 
 [HarmonyPatch(typeof(Agent))]
 public static class TrustFunderTweak

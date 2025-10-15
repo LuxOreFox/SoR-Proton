@@ -1,7 +1,7 @@
 ﻿using HarmonyLib;
 using RogueLibsCore;
 
-namespace Proton.VanillaOptimized;
+namespace Proton.VanillaTweak;
 
 [HarmonyPatch(typeof(ItemFunctions))]
 internal static class MiniFridgeTweak

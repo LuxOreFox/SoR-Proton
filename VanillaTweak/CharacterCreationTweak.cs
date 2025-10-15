@@ -2,7 +2,7 @@
 using HarmonyLib;
 using RogueLibsCore;
 
-namespace Proton.VanillaOptimized;
+namespace Proton.VanillaTweak;
 
 [HarmonyPatch(typeof(CharacterCreation))]
 internal static class CharacterCreationTweak

@@ -1,7 +1,7 @@
 ﻿using RogueLibsCore;
 using Neutron.Helper;
 
-namespace Proton.VanillaOptimized;
+namespace Proton.VanillaTweak;
 
 internal static class UnlocksTweak
 {
