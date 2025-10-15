@@ -1,7 +1,7 @@
 ﻿using System;
 using HarmonyLib;
-using Neutron.Category;
 using RogueLibsCore;
+using Neutron.Category;
 
 namespace Proton.Item;
 
